@@ -23,7 +23,7 @@ Sau khi add card mạng:
 
 Để xem card mạng, dùng lệnh ``ifconfig -a | grep eth``
 
-<img src=http://i.imgur.com/MYifQt0.png>
+<img src=http://i.imgur.com/qgxUffa.png>
 
 Hoặc bạn có thể xem cấu hình card mạng bằng lệnh ``ifconfig``
 
