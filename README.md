@@ -29,7 +29,7 @@ Hoặc bạn có thể xem cấu hình card mạng bằng lệnh ``ifconfig``
 
 <img src=http://i.imgur.com/VpVRC8v.png>
 
-Dùng lệnh vi /etc/network/interfaces để cấu hình card mạng
+Dùng lệnh ``vi /etc/network/interfaces`` để cấu hình card mạng
 
 <img src=http://i.imgur.com/vR8bhO6.png>
 
